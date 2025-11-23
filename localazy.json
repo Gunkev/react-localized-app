@@ -1,0 +1,13 @@
+{
+  "upload": {
+    "type": "json",
+    "features": ["plural_icu"],
+    "files": [
+      { "pattern": "src/i18n/en.json", "lang": "en", "path": "src/i18n" }
+    ]
+  },
+  "download": {
+    "files": [{ "output": "${path}/${lang}.json" }],
+    "langAliases": { "xxd": "qps" }
+  }
+}

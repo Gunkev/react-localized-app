@@ -1,0 +1,5 @@
+{
+  "welcome": "Welcome to the React localized app",
+  "language": "Switch to French",
+  "items": "{count, plural, one {# item} other {# items}}"
+}
