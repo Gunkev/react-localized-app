@@ -63,9 +63,13 @@ or
 ```bash
 yarn install
 ```
-
 ## Run app
 
 ```bash
 yarn dev
 ```
+
+## Integration Guide Links
+
+- https://localazy.com/blog/react-i18next-localazy-tutorial-part-1-i18n-foundations
+- https://localazy.com/blog/react-i18next-localazy-part-2-setting-up-translations
